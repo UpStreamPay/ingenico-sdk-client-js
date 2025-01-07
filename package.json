@@ -49,7 +49,7 @@
     "edge-paths": "^3.0.5",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.5.0",
-    "happy-dom": "^8.1.1",
+    "happy-dom": "^16.3.0",
     "husky": "^8.0.0",
     "microbundle": "^0.15.1",
     "node-forge": "^1.3.1",
